@@ -31,7 +31,9 @@ In retail, where shelf space directly influences purchasing behavior, effective 
 - 🔍 Visual KPIs like Total Sales, Promotion Impact, Overpricing %, and Sales Volume  
 - 🧠 Empathy Maps and Customer Journey Maps for user-centered design  
 - ⚙️ Agile methodology with user stories and sprint planning  
-- ✅ Functional & performance testing on web and mobile  
+- ✅ Functional & performance testing on web and mobile
+
+  ## 📺📽️Project Demo : https://drive.google.com/file/d/1wjBfMXb1I7BsUOPND6KKKVTjhrZ6xaG4/view?usp=sharing
 
 ## 🧰 Tools & Tech Stack
 
